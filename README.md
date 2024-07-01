@@ -5,7 +5,7 @@ Ask YC Combinator utilizes ChatGPT technology trained on YC Combinator website d
 
 ### *Features*:
 - *Respond to Member Inquiries*:
-  - Provide detailed responses to member queries regarding Catalyst initiatives, goals, and community impact.
+  - Provide detailed responses to member queries regarding YC Combinator initiatives, goals, and community impact.
 - *Partner Identification*:
   - Assist in identifying potential partners within the YC Combinator network based on shared interests and objectives.
 
