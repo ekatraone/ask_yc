@@ -1,7 +1,7 @@
 # Ask YC Combinator
 
 ### *Overview*:
-Ask YC Combinator utilizes ChatGPT technology trained on Catalyst 2030 website data to enhance member engagement and facilitate community collaboration via WhatsApp, leveraging the Mobius codebase.
+Ask YC Combinator utilizes ChatGPT technology trained on YC Combinator website data to enhance member engagement and facilitate community collaboration via WhatsApp, leveraging the Mobius codebase.
 
 ### *Features*:
 - *Respond to Member Inquiries*:
